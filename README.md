@@ -2,8 +2,7 @@
 Identify AI generated human face pictures verses real human face pictures
 
 ## Datasets
-https://archive.org/details/1mFakeFaces
+https://www.kaggle.com/datasets/chelove4draste/ai-generated-faces
 
 https://www.kaggle.com/datasets/atulanandjha/lfwpeople
-
 
